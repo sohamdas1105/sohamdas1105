@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Javascript projects or any.
 - 📫 How to reach me : Linkedin (https://www.linkedin.com/in/soham-das-4a048126a/)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I also do Competitive Programming (its a differebt topic that i am still at Pupil in Codeforces 😂)
+- ⚡ Fun fact: I also do Competitive Programming (its a different topic that i am still at Pupil in Codeforces 😂)
 
 <!---
 sohamdas1105/sohamdas1105 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
